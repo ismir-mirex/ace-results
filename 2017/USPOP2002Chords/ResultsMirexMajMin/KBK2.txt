@@ -1,0 +1,39 @@
+List: "Output/USPOP2002Chords.txt"
+
+**********************
+* Chords MirexMajMin *
+**********************
+Duration of evaluated chords: 45023.7 s
+Average score: 80.7182%
+
+Chord detection results
+-----------------------
+Correct chords: 34705.8 s (77.0833%)
+Substituted chords: 6973.83 s (15.4893%)
+Deleted chords: 901.528 s (2.00234%)
+Inserted chords: 806.012 s (1.7902%)
+Correct no-chords: 1636.56 s (3.63488%)
+
+Results per chord type
+----------------------
+maj: 26143.7 s (84.2117%) of 31045.2 s (68.9529%)
+min: 8562.09 s (74.2208%) of 11536 s (25.622%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 34705.8 s (77.0833%)
+  of which root correct: 34705.8 s (77.0833%)
+  of which root incorrect: 0 s (0%)
+1 chroma wrong: 2344.3 s (5.20681%)
+  of which 1 substitution: 2344.3 s (5.20681%)
+2 chromas wrong: 2822.04 s (6.2679%)
+  of which 2 substitutions: 2822.04 s (6.2679%)
+3 chromas wrong: 1807.5 s (4.01455%)
+  of which 3 substitutions: 1807.5 s (4.01455%)
+
+Root/type results
+-----------------
+Both correct: 34705.8 s (77.0833%)
+Only root correct: 1009.65 s (2.24249%)
+Only type correct: 3434.47 s (7.62813%)
+Both wrong: 2529.71 s (5.61863%)

@@ -1,0 +1,32 @@
+List: "Output/RWC-Popular.txt"
+
+********************
+* Chords MirexRoot *
+********************
+Duration of evaluated chords: 24405 s
+Average score: 87.2027%
+
+Chord detection results
+-----------------------
+Correct chords: 20731.5 s (84.9476%)
+Substituted chords: 2929.47 s (12.0035%)
+Deleted chords: 137.342 s (0.562761%)
+Inserted chords: 56.338 s (0.230846%)
+Correct no-chords: 550.408 s (2.2553%)
+
+Results per chord type
+----------------------
+: 20731.5 s (87.1133%) of 23798.3 s (97.5138%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 23661 s (96.9511%)
+  of which root correct: 20731.5 s (84.9476%)
+  of which root incorrect: 2929.47 s (12.0035%)
+
+Root/type results
+-----------------
+Both correct: 20731.5 s (84.9476%)
+Only root correct: 0 s (0%)
+Only type correct: 2929.47 s (12.0035%)
+Both wrong: -3.18323e-12 s (-1.30433e-14%)

@@ -1,0 +1,32 @@
+List: "Output/Billboard2012.txt"
+
+********************
+* Chords MirexRoot *
+********************
+Duration of evaluated chords: 39808.4 s
+Average score: 78.002%
+
+Chord detection results
+-----------------------
+Correct chords: 29849.2 s (74.9823%)
+Substituted chords: 7457.97 s (18.7347%)
+Deleted chords: 459.999 s (1.15553%)
+Inserted chords: 833.338 s (2.09337%)
+Correct no-chords: 1207.82 s (3.0341%)
+
+Results per chord type
+----------------------
+: 29849.2 s (79.0348%) of 37767.2 s (94.8725%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 37307.2 s (93.717%)
+  of which root correct: 29849.2 s (74.9823%)
+  of which root incorrect: 7457.97 s (18.7347%)
+
+Root/type results
+-----------------
+Both correct: 29849.2 s (74.9823%)
+Only root correct: 0 s (0%)
+Only type correct: 7457.97 s (18.7347%)
+Both wrong: -9.09495e-12 s (-2.28468e-14%)

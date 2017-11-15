@@ -1,0 +1,53 @@
+List: "Output/RWC-Popular.txt"
+
+************************
+* Chords MirexSevenths *
+************************
+Duration of evaluated chords: 22364.2 s
+Average score: 70.1249%
+
+Chord detection results
+-----------------------
+Correct chords: 15198.7 s (67.9602%)
+Substituted chords: 6421.78 s (28.7146%)
+Deleted chords: 136.909 s (0.612181%)
+Inserted chords: 122.592 s (0.548164%)
+Correct no-chords: 484.154 s (2.16486%)
+
+Results per chord type
+----------------------
+maj: 8486.78 s (78.1484%) of 10859.8 s (48.5591%)
+maj7: 1020.3 s (50.5671%) of 2017.72 s (9.02213%)
+7: 752.393 s (41.0042%) of 1834.92 s (8.20472%)
+min: 2439.01 s (68.8092%) of 3544.59 s (15.8494%)
+min7: 2500.24 s (71.4283%) of 3500.35 s (15.6516%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 15198.7 s (67.9602%)
+  of which root correct: 15198.7 s (67.9602%)
+  of which root incorrect: 0 s (0%)
+1 chroma wrong: 3877.88 s (17.3397%)
+  of which 1 substitution: 702.572 s (3.14151%)
+  of which 1 deletion: 0 s (0%)
+  of which 1 insertion: 0 s (0%)
+2 chromas wrong: 1364.42 s (6.10093%)
+  of which 2 substitutions: 928.996 s (4.15395%)
+  of which 1 substitution, 1 deletion: 1964.42 s (8.78378%)
+  of which 1 substitution, 1 insertion: 1210.89 s (5.41441%)
+3 chromas wrong: 1050.2 s (4.6959%)
+  of which 3 substitutions: 563.463 s (2.51949%)
+  of which 2 substitutions, 1 deletion: 271.797 s (1.21532%)
+  of which 2 substitutions, 1 insertion: 163.629 s (0.731655%)
+4 chromas wrong: 121.757 s (0.54443%)
+  of which 4 substitutions: 7.4884 s (0.0334839%)
+  of which 3 substitutions, 1 deletion: 294.297 s (1.31593%)
+  of which 3 substitutions, 1 insertion: 192.438 s (0.860477%)
+unknown chromas wrong: 7.5233 s (0.03364%)
+
+Root/type results
+-----------------
+Both correct: 15198.7 s (67.9602%)
+Only root correct: 3424.58 s (15.3128%)
+Only type correct: 1046.44 s (4.67909%)
+Both wrong: 1950.76 s (8.72269%)

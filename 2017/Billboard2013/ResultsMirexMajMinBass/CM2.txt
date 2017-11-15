@@ -1,0 +1,46 @@
+List: "Output/Billboard2013.txt"
+
+**************************
+* Chords MirexMajMinBass *
+**************************
+Duration of evaluated chords: 31493.3 s
+Average score: 65.2757%
+
+Chord detection results
+-----------------------
+Correct chords: 20311 s (64.4931%)
+Substituted chords: 9644.26 s (30.6233%)
+Deleted chords: 113.971 s (0.36189%)
+Inserted chords: 1176.91 s (3.73703%)
+Correct no-chords: 247.143 s (0.784749%)
+
+Results per chord type
+----------------------
+maj/1: 0 s (n/a) of 0 s (0%)
+maj/5: 118.687 s (19.9445%) of 595.085 s (1.88956%)
+maj/3: 145.536 s (27.5096%) of 529.036 s (1.67984%)
+maj: 15422 s (73.0008%) of 21125.8 s (67.0805%)
+min/1: 0 s (n/a) of 0 s (0%)
+min/5: 0 s (0%) of 168.347 s (0.534549%)
+min/b3: 0 s (0%) of 162.736 s (0.516734%)
+min: 4624.71 s (61.7604%) of 7488.16 s (23.777%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 20967.1 s (66.5765%)
+  of which root correct: 20311 s (64.4931%)
+  of which root incorrect: 656.147 s (2.08345%)
+1 chroma wrong: 3023.12 s (9.59927%)
+  of which 1 substitution: 3023.12 s (9.59927%)
+2 chromas wrong: 2826.21 s (8.97402%)
+  of which 2 substitutions: 2826.21 s (8.97402%)
+3 chromas wrong: 2607.3 s (8.27891%)
+  of which 3 substitutions: 2607.3 s (8.27891%)
+unknown chromas wrong: 531.483 s (1.68761%)
+
+Root/type results
+-----------------
+Both correct: 20311 s (64.4931%)
+Only root correct: 2340.92 s (7.43307%)
+Only type correct: 3495.42 s (11.0989%)
+Both wrong: 3807.93 s (12.0913%)

@@ -1,0 +1,32 @@
+List: "Output/Isophonics2009.txt"
+
+********************
+* Chords MirexRoot *
+********************
+Duration of evaluated chords: 37054.7 s
+Average score: 80.9306%
+
+Chord detection results
+-----------------------
+Correct chords: 28638.7 s (77.2877%)
+Substituted chords: 6048.99 s (16.3245%)
+Deleted chords: 454.896 s (1.22764%)
+Inserted chords: 562.215 s (1.51726%)
+Correct no-chords: 1349.85 s (3.64287%)
+
+Results per chord type
+----------------------
+: 28638.7 s (81.4929%) of 35142.6 s (94.8399%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 34687.7 s (93.6122%)
+  of which root correct: 28638.7 s (77.2877%)
+  of which root incorrect: 6048.99 s (16.3245%)
+
+Root/type results
+-----------------
+Both correct: 28638.7 s (77.2877%)
+Only root correct: 0 s (0%)
+Only type correct: 6048.99 s (16.3245%)
+Both wrong: -1.81899e-12 s (-4.90894e-15%)

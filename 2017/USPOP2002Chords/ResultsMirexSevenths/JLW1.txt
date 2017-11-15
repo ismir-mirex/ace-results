@@ -1,0 +1,53 @@
+List: "Output/USPOP2002Chords.txt"
+
+************************
+* Chords MirexSevenths *
+************************
+Duration of evaluated chords: 44315.7 s
+Average score: 67.3002%
+
+Chord detection results
+-----------------------
+Correct chords: 28480.2 s (64.2665%)
+Substituted chords: 13061.7 s (29.4741%)
+Deleted chords: 331.337 s (0.747673%)
+Inserted chords: 1097.76 s (2.47713%)
+Correct no-chords: 1344.81 s (3.03461%)
+
+Results per chord type
+----------------------
+maj: 19946.9 s (78.2682%) of 25485.3 s (57.5085%)
+maj7: 790.403 s (55.0998%) of 1434.49 s (3.23698%)
+7: 1031.83 s (28.0319%) of 3680.91 s (8.3061%)
+min: 5421.71 s (79.8012%) of 6794.02 s (15.3309%)
+min7: 1289.36 s (28.7902%) of 4478.45 s (10.1058%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 28480.2 s (64.2665%)
+  of which root correct: 28480.2 s (64.2665%)
+  of which root incorrect: 0 s (0%)
+1 chroma wrong: 7402.04 s (16.7029%)
+  of which 1 substitution: 1600.06 s (3.61059%)
+  of which 1 deletion: 0 s (0%)
+  of which 1 insertion: 0 s (0%)
+2 chromas wrong: 3260.73 s (7.35796%)
+  of which 2 substitutions: 2364.62 s (5.33585%)
+  of which 1 substitution, 1 deletion: 4241.25 s (9.57053%)
+  of which 1 substitution, 1 insertion: 1560.73 s (3.52183%)
+3 chromas wrong: 1880.68 s (4.24383%)
+  of which 3 substitutions: 871.353 s (1.96624%)
+  of which 2 substitutions, 1 deletion: 646.508 s (1.45887%)
+  of which 2 substitutions, 1 insertion: 249.603 s (0.563238%)
+4 chromas wrong: 233.184 s (0.526187%)
+  of which 4 substitutions: 26.6146 s (0.0600567%)
+  of which 3 substitutions, 1 deletion: 788.438 s (1.77914%)
+  of which 3 substitutions, 1 insertion: 220.894 s (0.498455%)
+unknown chromas wrong: 285.033 s (0.643187%)
+
+Root/type results
+-----------------
+Both correct: 28480.2 s (64.2665%)
+Only root correct: 6448.55 s (14.5514%)
+Only type correct: 2459.89 s (5.55083%)
+Both wrong: 4153.22 s (9.37189%)

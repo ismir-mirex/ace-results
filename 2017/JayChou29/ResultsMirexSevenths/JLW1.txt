@@ -1,0 +1,53 @@
+List: "Output/JayChou29.txt"
+
+************************
+* Chords MirexSevenths *
+************************
+Duration of evaluated chords: 6914.71 s
+Average score: 58.0985%
+
+Chord detection results
+-----------------------
+Correct chords: 3841.25 s (55.5518%)
+Substituted chords: 2807.73 s (40.6051%)
+Deleted chords: 8.45655 s (0.122298%)
+Inserted chords: 80.7422 s (1.16769%)
+Correct no-chords: 176.543 s (2.55314%)
+
+Results per chord type
+----------------------
+maj: 2052.25 s (69.3726%) of 2958.3 s (42.7826%)
+maj7: 229.799 s (41.0736%) of 559.481 s (8.09117%)
+7: 210.683 s (34.3873%) of 612.677 s (8.86048%)
+min: 569.321 s (50.0215%) of 1138.15 s (16.4598%)
+min7: 779.198 s (56.1049%) of 1388.82 s (20.085%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 3841.25 s (55.5518%)
+  of which root correct: 3841.25 s (55.5518%)
+  of which root incorrect: 0 s (0%)
+1 chroma wrong: 1605.57 s (23.2196%)
+  of which 1 substitution: 224.697 s (3.24956%)
+  of which 1 deletion: 0 s (0%)
+  of which 1 insertion: 0 s (0%)
+2 chromas wrong: 649.107 s (9.38733%)
+  of which 2 substitutions: 325.743 s (4.71086%)
+  of which 1 substitution, 1 deletion: 728.209 s (10.5313%)
+  of which 1 substitution, 1 insertion: 652.664 s (9.43877%)
+3 chromas wrong: 411.666 s (5.95348%)
+  of which 3 substitutions: 146.428 s (2.11763%)
+  of which 2 substitutions, 1 deletion: 221.851 s (3.20839%)
+  of which 2 substitutions, 1 insertion: 101.514 s (1.46808%)
+4 chromas wrong: 23.6967 s (0.342699%)
+  of which 4 substitutions: 7.29379 s (0.105482%)
+  of which 3 substitutions, 1 deletion: 201.787 s (2.91822%)
+  of which 3 substitutions, 1 insertion: 63.4514 s (0.917628%)
+unknown chromas wrong: 117.685 s (1.70194%)
+
+Root/type results
+-----------------
+Both correct: 3841.25 s (55.5518%)
+Only root correct: 1343.2 s (19.4253%)
+Only type correct: 371.089 s (5.36665%)
+Both wrong: 1093.43 s (15.8131%)

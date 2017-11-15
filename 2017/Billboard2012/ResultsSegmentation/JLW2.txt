@@ -1,0 +1,13 @@
+List: "Output/Billboard2012.txt"
+
+**********************
+* Segmentation Inner *
+**********************
+Duration of evaluated segments: 39847.8 s
+Average number of reference segments: 98.0479
+Average number of test segments: 82.2287
+Average ratio of number of segments: 0.917988
+Average combined Hamming measure (worst): 0.798876
+Average combined Hamming measure (harmonic): 0.84519
+Average under-segmentation: 0.818805
+Average over-segmentation: 0.892199

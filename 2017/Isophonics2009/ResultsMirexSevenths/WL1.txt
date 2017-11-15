@@ -1,0 +1,53 @@
+List: "Output/Isophonics2009.txt"
+
+************************
+* Chords MirexSevenths *
+************************
+Duration of evaluated chords: 35161.3 s
+Average score: 69.0126%
+
+Chord detection results
+-----------------------
+Correct chords: 22875.5 s (65.0588%)
+Substituted chords: 9665.97 s (27.4904%)
+Deleted chords: 707.714 s (2.01277%)
+Inserted chords: 520.946 s (1.48159%)
+Correct no-chords: 1391.12 s (3.95641%)
+
+Results per chord type
+----------------------
+maj: 17488.6 s (77.518%) of 22560.8 s (64.1637%)
+maj7: 128.286 s (28.089%) of 456.712 s (1.29891%)
+7: 650.009 s (21.4355%) of 3032.39 s (8.62424%)
+min: 4216.84 s (69.8965%) of 6032.97 s (17.158%)
+min7: 391.741 s (33.5865%) of 1166.36 s (3.31718%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 22875.5 s (65.0588%)
+  of which root correct: 22875.5 s (65.0588%)
+  of which root incorrect: 0 s (0%)
+1 chroma wrong: 5379.43 s (15.2993%)
+  of which 1 substitution: 1343.25 s (3.82025%)
+  of which 1 deletion: 0 s (0%)
+  of which 1 insertion: 0 s (0%)
+2 chromas wrong: 2814.06 s (8.00329%)
+  of which 2 substitutions: 2356.31 s (6.70143%)
+  of which 1 substitution, 1 deletion: 2597.32 s (7.38688%)
+  of which 1 substitution, 1 insertion: 1438.87 s (4.09219%)
+3 chromas wrong: 1388.58 s (3.94918%)
+  of which 3 substitutions: 886.988 s (2.52263%)
+  of which 2 substitutions, 1 deletion: 298.618 s (0.849282%)
+  of which 2 substitutions, 1 insertion: 159.133 s (0.45258%)
+4 chromas wrong: 73.0956 s (0.207887%)
+  of which 4 substitutions: 0.75762 s (0.0021547%)
+  of which 3 substitutions, 1 deletion: 317.788 s (0.903803%)
+  of which 3 substitutions, 1 insertion: 183.807 s (0.522753%)
+unknown chromas wrong: 10.7984 s (0.0307111%)
+
+Root/type results
+-----------------
+Both correct: 22875.5 s (65.0588%)
+Only root correct: 4713.2 s (13.4045%)
+Only type correct: 2592.62 s (7.37352%)
+Both wrong: 2360.15 s (6.71235%)

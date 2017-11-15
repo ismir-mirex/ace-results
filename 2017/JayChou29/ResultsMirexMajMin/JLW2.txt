@@ -1,0 +1,39 @@
+List: "Output/JayChou29.txt"
+
+**********************
+* Chords MirexMajMin *
+**********************
+Duration of evaluated chords: 7251.17 s
+Average score: 75.7023%
+
+Chord detection results
+-----------------------
+Correct chords: 5319.67 s (73.363%)
+Substituted chords: 1663.23 s (22.9374%)
+Deleted chords: 10.9836 s (0.151473%)
+Inserted chords: 87.2113 s (1.20272%)
+Correct no-chords: 170.073 s (2.34546%)
+
+Results per chord type
+----------------------
+maj: 3135.87 s (72.4268%) of 4329.71 s (59.7105%)
+min: 2183.81 s (81.9692%) of 2664.18 s (36.7414%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 5319.67 s (73.363%)
+  of which root correct: 5319.67 s (73.363%)
+  of which root incorrect: 0 s (0%)
+1 chroma wrong: 504.114 s (6.95218%)
+  of which 1 substitution: 504.114 s (6.95218%)
+2 chromas wrong: 820.423 s (11.3144%)
+  of which 2 substitutions: 820.423 s (11.3144%)
+3 chromas wrong: 338.689 s (4.67082%)
+  of which 3 substitutions: 338.689 s (4.67082%)
+
+Root/type results
+-----------------
+Both correct: 5319.67 s (73.363%)
+Only root correct: 92.363 s (1.27377%)
+Only type correct: 864.493 s (11.9221%)
+Both wrong: 706.37 s (9.74147%)

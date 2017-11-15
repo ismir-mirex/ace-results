@@ -1,0 +1,13 @@
+List: "Output/Isophonics2009.txt"
+
+**********************
+* Segmentation Inner *
+**********************
+Duration of evaluated segments: 37054.7 s
+Average number of reference segments: 83.424
+Average number of test segments: 68.0461
+Average ratio of number of segments: 0.863362
+Average combined Hamming measure (worst): 0.808363
+Average combined Hamming measure (harmonic): 0.855858
+Average under-segmentation: 0.822235
+Average over-segmentation: 0.913302
