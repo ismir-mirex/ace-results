@@ -1,0 +1,13 @@
+List: "ace-output/RobbieWilliams.txt"
+
+**********************
+* Segmentation Inner *
+**********************
+Duration of evaluated segments: 16253.2 s
+Average number of reference segments: 104.277
+Average number of test segments: 97.2154
+Average ratio of number of segments: 0.954587
+Average combined Hamming measure (worst): 0.877337
+Average combined Hamming measure (harmonic): 0.909547
+Average under-segmentation: 0.893039
+Average over-segmentation: 0.932276

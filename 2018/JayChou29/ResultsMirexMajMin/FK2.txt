@@ -1,0 +1,39 @@
+List: "ace-output/JayChou29.txt"
+
+**********************
+* Chords MirexMajMin *
+**********************
+Duration of evaluated chords: 7251.17 s
+Average score: 80.4798%
+
+Chord detection results
+-----------------------
+Correct chords: 5635.1 s (77.713%)
+Substituted chords: 1319.34 s (18.1949%)
+Deleted chords: 39.4451 s (0.543983%)
+Inserted chords: 56.4973 s (0.779148%)
+Correct no-chords: 200.787 s (2.76904%)
+
+Results per chord type
+----------------------
+maj: 3441.16 s (79.4778%) of 4329.71 s (59.7105%)
+min: 2193.94 s (82.3497%) of 2664.18 s (36.7414%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 5635.1 s (77.713%)
+  of which root correct: 5635.1 s (77.713%)
+  of which root incorrect: 0 s (0%)
+1 chroma wrong: 496.189 s (6.84288%)
+  of which 1 substitution: 496.189 s (6.84288%)
+2 chromas wrong: 597.537 s (8.24056%)
+  of which 2 substitutions: 597.537 s (8.24056%)
+3 chromas wrong: 225.615 s (3.11143%)
+  of which 3 substitutions: 225.615 s (3.11143%)
+
+Root/type results
+-----------------
+Both correct: 5635.1 s (77.713%)
+Only root correct: 106.526 s (1.46908%)
+Only type correct: 623.643 s (8.60059%)
+Both wrong: 589.172 s (8.12521%)

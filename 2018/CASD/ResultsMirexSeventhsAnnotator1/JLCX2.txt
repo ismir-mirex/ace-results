@@ -1,0 +1,53 @@
+List: "ace-output/CASD.txt"
+
+************************
+* Chords MirexSevenths *
+************************
+Duration of evaluated chords: 11583.7 s
+Average score: 66.1748%
+
+Chord detection results
+-----------------------
+Correct chords: 7461.53 s (64.414%)
+Substituted chords: 3436.43 s (29.6661%)
+Deleted chords: 124.959 s (1.07875%)
+Inserted chords: 351.104 s (3.03102%)
+Correct no-chords: 209.682 s (1.81015%)
+
+Results per chord type
+----------------------
+maj: 4980.39 s (79.0316%) of 6301.77 s (54.402%)
+maj7: 393.996 s (63.2933%) of 622.493 s (5.37387%)
+7: 282.444 s (26.5383%) of 1064.29 s (9.18782%)
+min: 1029.18 s (72.7384%) of 1414.9 s (12.2146%)
+min7: 775.523 s (47.8876%) of 1619.47 s (13.9805%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 7461.53 s (64.414%)
+  of which root correct: 7461.53 s (64.414%)
+  of which root incorrect: 0 s (0%)
+1 chroma wrong: 1870.31 s (16.146%)
+  of which 1 substitution: 316.362 s (2.73109%)
+  of which 1 deletion: 0 s (0%)
+  of which 1 insertion: 0 s (0%)
+2 chromas wrong: 550.58 s (4.75306%)
+  of which 2 substitutions: 465.764 s (4.02086%)
+  of which 1 substitution, 1 deletion: 1255.08 s (10.8349%)
+  of which 1 substitution, 1 insertion: 298.864 s (2.58004%)
+3 chromas wrong: 760.598 s (6.56611%)
+  of which 3 substitutions: 329.263 s (2.84247%)
+  of which 2 substitutions, 1 deletion: 68.9914 s (0.59559%)
+  of which 2 substitutions, 1 insertion: 15.8243 s (0.136609%)
+4 chromas wrong: 143.255 s (1.2367%)
+  of which 4 substitutions: 39.0444 s (0.337063%)
+  of which 3 substitutions, 1 deletion: 182.02 s (1.57134%)
+  of which 3 substitutions, 1 insertion: 249.316 s (2.1523%)
+unknown chromas wrong: 111.688 s (0.964182%)
+
+Root/type results
+-----------------
+Both correct: 7461.53 s (64.414%)
+Only root correct: 1649.66 s (14.2412%)
+Only type correct: 695.53 s (6.00438%)
+Both wrong: 1091.24 s (9.4205%)

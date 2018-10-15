@@ -1,0 +1,13 @@
+List: "ace-output/CASD.txt"
+
+**********************
+* Segmentation Inner *
+**********************
+Duration of evaluated segments: 11936.6 s
+Average number of reference segments: 112.1
+Average number of test segments: 103.7
+Average ratio of number of segments: 0.969492
+Average combined Hamming measure (worst): 0.789796
+Average combined Hamming measure (harmonic): 0.831791
+Average under-segmentation: 0.831417
+Average over-segmentation: 0.853257

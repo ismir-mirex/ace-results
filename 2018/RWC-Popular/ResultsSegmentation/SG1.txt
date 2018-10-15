@@ -1,0 +1,13 @@
+List: "ace-output/RWC-Popular.txt"
+
+**********************
+* Segmentation Inner *
+**********************
+Duration of evaluated segments: 24405 s
+Average number of reference segments: 133.9
+Average number of test segments: 268.08
+Average ratio of number of segments: 2.07259
+Average combined Hamming measure (worst): 0.762522
+Average combined Hamming measure (harmonic): 0.826209
+Average under-segmentation: 0.906554
+Average over-segmentation: 0.764431

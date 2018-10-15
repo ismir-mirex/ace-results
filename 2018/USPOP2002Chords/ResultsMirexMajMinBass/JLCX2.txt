@@ -1,0 +1,45 @@
+List: "ace-output/USPOP2002Chords.txt"
+
+**************************
+* Chords MirexMajMinBass *
+**************************
+Duration of evaluated chords: 45023.7 s
+Average score: 82.7179%
+
+Chord detection results
+-----------------------
+Correct chords: 36034.5 s (80.0344%)
+Substituted chords: 6418.98 s (14.2569%)
+Deleted chords: 127.68 s (0.283583%)
+Inserted chords: 1233.99 s (2.74077%)
+Correct no-chords: 1208.57 s (2.68431%)
+
+Results per chord type
+----------------------
+maj/1: 0 s (n/a) of 0 s (0%)
+maj/5: 424.335 s (40.7864%) of 1040.38 s (2.31074%)
+maj/3: 1108.43 s (61.7787%) of 1794.2 s (3.985%)
+maj: 24884.7 s (88.2107%) of 28210.6 s (62.6572%)
+min/1: 0 s (n/a) of 0 s (0%)
+min/5: 50.4111 s (27.9987%) of 180.048 s (0.399896%)
+min/b3: 86.4117 s (29.5264%) of 292.659 s (0.650011%)
+min: 9480.14 s (85.6903%) of 11063.3 s (24.5721%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 36911.2 s (81.9816%)
+  of which root correct: 36034.5 s (80.0344%)
+  of which root incorrect: 876.694 s (1.94718%)
+1 chroma wrong: 1622.3 s (3.60321%)
+  of which 1 substitution: 1622.3 s (3.60321%)
+2 chromas wrong: 2256.09 s (5.01089%)
+  of which 2 substitutions: 2256.09 s (5.01089%)
+3 chromas wrong: 1663.91 s (3.69562%)
+  of which 3 substitutions: 1663.91 s (3.69562%)
+
+Root/type results
+-----------------
+Both correct: 36034.5 s (80.0344%)
+Only root correct: 1404.98 s (3.12053%)
+Only type correct: 2218.07 s (4.92646%)
+Both wrong: 2795.93 s (6.20992%)

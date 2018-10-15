@@ -1,0 +1,39 @@
+List: "ace-output/RobbieWilliams.txt"
+
+**********************
+* Chords MirexMajMin *
+**********************
+Duration of evaluated chords: 15877.9 s
+Average score: 85.3258%
+
+Chord detection results
+-----------------------
+Correct chords: 13247.9 s (83.4365%)
+Substituted chords: 2024.71 s (12.7518%)
+Deleted chords: 43.6546 s (0.27494%)
+Inserted chords: 260.375 s (1.63986%)
+Correct no-chords: 301.19 s (1.89692%)
+
+Results per chord type
+----------------------
+maj: 10027.4 s (88.7077%) of 11303.9 s (71.1928%)
+min: 3220.52 s (80.264%) of 4012.41 s (25.2704%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 13247.9 s (83.4365%)
+  of which root correct: 13247.9 s (83.4365%)
+  of which root incorrect: 0 s (0%)
+1 chroma wrong: 832.801 s (5.24505%)
+  of which 1 substitution: 832.801 s (5.24505%)
+2 chromas wrong: 782.657 s (4.92923%)
+  of which 2 substitutions: 782.657 s (4.92923%)
+3 chromas wrong: 409.248 s (2.57748%)
+  of which 3 substitutions: 409.248 s (2.57748%)
+
+Root/type results
+-----------------
+Both correct: 13247.9 s (83.4365%)
+Only root correct: 360.183 s (2.26846%)
+Only type correct: 824.001 s (5.18962%)
+Both wrong: 840.523 s (5.29368%)

@@ -1,0 +1,32 @@
+List: "ace-output/USPOP2002Chords.txt"
+
+********************
+* Chords MirexRoot *
+********************
+Duration of evaluated chords: 50421.2 s
+Average score: 81.6684%
+
+Chord detection results
+-----------------------
+Correct chords: 39416.4 s (78.1743%)
+Substituted chords: 6455.64 s (12.8034%)
+Deleted chords: 2106.55 s (4.1779%)
+Inserted chords: 680.848 s (1.35032%)
+Correct no-chords: 1761.72 s (3.49401%)
+
+Results per chord type
+----------------------
+: 39416.4 s (82.1542%) of 47978.6 s (95.1557%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 45872.1 s (90.9778%)
+  of which root correct: 39416.4 s (78.1743%)
+  of which root incorrect: 6455.64 s (12.8034%)
+
+Root/type results
+-----------------
+Both correct: 39416.4 s (78.1743%)
+Only root correct: 0 s (0%)
+Only type correct: 6455.64 s (12.8034%)
+Both wrong: 8.18545e-12 s (1.62342e-14%)

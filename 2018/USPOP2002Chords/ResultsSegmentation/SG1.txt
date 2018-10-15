@@ -1,0 +1,13 @@
+List: "ace-output/USPOP2002Chords.txt"
+
+**********************
+* Segmentation Inner *
+**********************
+Duration of evaluated segments: 50421.2 s
+Average number of reference segments: 127.81
+Average number of test segments: 229.713
+Average ratio of number of segments: 1.93373
+Average combined Hamming measure (worst): 0.775317
+Average combined Hamming measure (harmonic): 0.834563
+Average under-segmentation: 0.903748
+Average over-segmentation: 0.785941

@@ -1,0 +1,13 @@
+List: "ace-output/Billboard2013.txt"
+
+**********************
+* Segmentation Inner *
+**********************
+Duration of evaluated segments: 34130.2 s
+Average number of reference segments: 106.72
+Average number of test segments: 93.5093
+Average ratio of number of segments: 1.05452
+Average combined Hamming measure (worst): 0.782677
+Average combined Hamming measure (harmonic): 0.835904
+Average under-segmentation: 0.830085
+Average over-segmentation: 0.875392

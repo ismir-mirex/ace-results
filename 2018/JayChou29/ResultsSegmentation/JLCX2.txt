@@ -1,0 +1,13 @@
+List: "ace-output/JayChou29.txt"
+
+**********************
+* Segmentation Inner *
+**********************
+Duration of evaluated segments: 7681.09 s
+Average number of reference segments: 122.069
+Average number of test segments: 120.138
+Average ratio of number of segments: 0.991582
+Average combined Hamming measure (worst): 0.917307
+Average combined Hamming measure (harmonic): 0.931589
+Average under-segmentation: 0.922625
+Average over-segmentation: 0.941641

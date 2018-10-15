@@ -1,0 +1,39 @@
+List: "ace-output/Billboard2012.txt"
+
+**********************
+* Chords MirexMajMin *
+**********************
+Duration of evaluated chords: 37014 s
+Average score: 86.0143%
+
+Chord detection results
+-----------------------
+Correct chords: 30106.7 s (81.3387%)
+Substituted chords: 4549.69 s (12.2918%)
+Deleted chords: 316.461 s (0.854978%)
+Inserted chords: 308.152 s (0.832529%)
+Correct no-chords: 1733.01 s (4.68204%)
+
+Results per chord type
+----------------------
+maj: 23466.7 s (87.8363%) of 26716.4 s (72.1792%)
+min: 6639.98 s (80.4221%) of 8256.42 s (22.3062%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 30106.7 s (81.3387%)
+  of which root correct: 30106.7 s (81.3387%)
+  of which root incorrect: 0 s (0%)
+1 chroma wrong: 1389.7 s (3.75453%)
+  of which 1 substitution: 1389.7 s (3.75453%)
+2 chromas wrong: 2007.36 s (5.42325%)
+  of which 2 substitutions: 2007.36 s (5.42325%)
+3 chromas wrong: 1152.62 s (3.11402%)
+  of which 3 substitutions: 1152.62 s (3.11402%)
+
+Root/type results
+-----------------
+Both correct: 30106.7 s (81.3387%)
+Only root correct: 464.677 s (1.25541%)
+Only type correct: 2396.48 s (6.47453%)
+Both wrong: 1688.53 s (4.56186%)

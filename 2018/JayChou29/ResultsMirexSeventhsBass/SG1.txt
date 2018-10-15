@@ -1,0 +1,71 @@
+List: "ace-output/JayChou29.txt"
+
+****************************
+* Chords MirexSeventhsBass *
+****************************
+Duration of evaluated chords: 6914.71 s
+Average score: 53.7971%
+
+Chord detection results
+-----------------------
+Correct chords: 3499.79 s (50.6137%)
+Substituted chords: 3053.57 s (44.1604%)
+Deleted chords: 104.073 s (1.50509%)
+Inserted chords: 37.0686 s (0.536083%)
+Correct no-chords: 220.216 s (3.18475%)
+
+Results per chord type
+----------------------
+maj/1: 0 s (n/a) of 0 s (0%)
+maj/5: 75.0384 s (27.6452%) of 271.434 s (3.92545%)
+maj/3: 297.329 s (55.3805%) of 536.883 s (7.76436%)
+maj: 1753.01 s (81.5362%) of 2149.98 s (31.0928%)
+maj7/1: 0 s (n/a) of 0 s (0%)
+maj7/5: 2.82707 s (3.62804%) of 77.9229 s (1.12691%)
+maj7/3: 0 s (0%) of 13.8888 s (0.200858%)
+maj7/7: 0 s (0%) of 6.03111 s (0.0872214%)
+maj7: 106.761 s (23.1265%) of 461.638 s (6.67617%)
+7/1: 0 s (n/a) of 0 s (0%)
+7/5: 0 s (0%) of 26.9621 s (0.389923%)
+7/3: 1.39286 s (1.38785%) of 100.361 s (1.45141%)
+7/b7: 0 s (0%) of 153.938 s (2.22624%)
+7: 22.2015 s (6.69897%) of 331.416 s (4.79291%)
+min/1: 0 s (n/a) of 0 s (0%)
+min/5: 11.7395 s (23.8388%) of 49.2453 s (0.712181%)
+min/b3: 0 s (0%) of 86.0985 s (1.24515%)
+min: 385.468 s (38.4389%) of 1002.81 s (14.5025%)
+min7/1: 0 s (n/a) of 0 s (0%)
+min7/5: 0 s (0%) of 47.3229 s (0.68438%)
+min7/b3: 0 s (n/a) of 0 s (0%)
+min7/b7: 0 s (0%) of 21.5835 s (0.312138%)
+min7: 844.023 s (63.9452%) of 1319.92 s (19.0885%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 3681.89 s (53.2471%)
+  of which root correct: 3499.79 s (50.6137%)
+  of which root incorrect: 182.097 s (2.63347%)
+1 chroma wrong: 1745.28 s (25.2401%)
+  of which 1 substitution: 325.366 s (4.70542%)
+  of which 1 deletion: 0 s (0%)
+  of which 1 insertion: 0 s (0%)
+2 chromas wrong: 722.319 s (10.4461%)
+  of which 2 substitutions: 361.647 s (5.23011%)
+  of which 1 substitution, 1 deletion: 853.666 s (12.3456%)
+  of which 1 substitution, 1 insertion: 566.252 s (8.18909%)
+3 chromas wrong: 320.797 s (4.63934%)
+  of which 3 substitutions: 90.7225 s (1.31202%)
+  of which 2 substitutions, 1 deletion: 323.799 s (4.68276%)
+  of which 2 substitutions, 1 insertion: 36.8724 s (0.533245%)
+4 chromas wrong: 33.6529 s (0.486685%)
+  of which 4 substitutions: 5.33032 s (0.0770866%)
+  of which 3 substitutions, 1 deletion: 174.119 s (2.51809%)
+  of which 3 substitutions, 1 insertion: 55.9559 s (0.80923%)
+unknown chromas wrong: 49.4157 s (0.714645%)
+
+Root/type results
+-----------------
+Both correct: 3499.79 s (50.6137%)
+Only root correct: 1895.96 s (27.4192%)
+Only type correct: 199.892 s (2.89082%)
+Both wrong: 957.716 s (13.8504%)

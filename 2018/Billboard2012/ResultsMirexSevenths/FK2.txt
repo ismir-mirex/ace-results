@@ -1,0 +1,52 @@
+List: "ace-output/Billboard2012.txt"
+
+************************
+* Chords MirexSevenths *
+************************
+Duration of evaluated chords: 36398.5 s
+Average score: 61.1209%
+
+Chord detection results
+-----------------------
+Correct chords: 20516.4 s (56.3662%)
+Substituted chords: 13528.8 s (37.1685%)
+Deleted chords: 312.113 s (0.857488%)
+Inserted chords: 308.152 s (0.846607%)
+Correct no-chords: 1733.01 s (4.76121%)
+
+Results per chord type
+----------------------
+maj: 17150.7 s (89.3556%) of 19193.8 s (52.7324%)
+maj7: 0 s (0%) of 1897.39 s (5.21282%)
+7: 0 s (0%) of 5182.49 s (14.2382%)
+min: 3365.72 s (83.9723%) of 4008.13 s (11.0118%)
+min7: 0 s (0%) of 4075.51 s (11.1969%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 20516.4 s (56.3662%)
+  of which root correct: 20516.4 s (56.3662%)
+  of which root incorrect: 0 s (0%)
+1 chroma wrong: 10146.4 s (27.8759%)
+  of which 1 substitution: 642.138 s (1.76419%)
+  of which 1 deletion: 0 s (0%)
+  of which 1 insertion: 0 s (0%)
+2 chromas wrong: 1853.92 s (5.0934%)
+  of which 2 substitutions: 1282.03 s (3.52219%)
+  of which 1 substitution, 1 deletion: 9504.26 s (26.1117%)
+  of which 1 substitution, 1 insertion: 0 s (0%)
+3 chromas wrong: 1374.3 s (3.77571%)
+  of which 3 substitutions: 597.557 s (1.64171%)
+  of which 2 substitutions, 1 deletion: 571.896 s (1.57121%)
+  of which 2 substitutions, 1 insertion: 0 s (0%)
+4 chromas wrong: 154.151 s (0.423509%)
+  of which 4 substitutions: 0 s (0%)
+  of which 3 substitutions, 1 deletion: 776.743 s (2.134%)
+  of which 3 substitutions, 1 insertion: 0 s (0%)
+
+Root/type results
+-----------------
+Both correct: 20516.4 s (56.3662%)
+Only root correct: 9657.13 s (26.5317%)
+Only type correct: 1568.13 s (4.30822%)
+Both wrong: 2303.51 s (6.32858%)
