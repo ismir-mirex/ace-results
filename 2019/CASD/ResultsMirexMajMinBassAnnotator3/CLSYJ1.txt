@@ -1,0 +1,46 @@
+List: "ace-output/CASD.txt"
+
+**************************
+* Chords MirexMajMinBass *
+**************************
+Duration of evaluated chords: 11629.7 s
+Average score: 62.7185%
+
+Chord detection results
+-----------------------
+Correct chords: 7100.29 s (61.053%)
+Substituted chords: 3421.08 s (29.4167%)
+Deleted chords: 790.411 s (6.79648%)
+Inserted chords: 118.336 s (1.01753%)
+Correct no-chords: 199.591 s (1.71622%)
+
+Results per chord type
+----------------------
+maj/1: 0 s (n/a) of 0 s (0%)
+maj/5: 0 s (0%) of 328.957 s (2.82859%)
+maj/3: 0 s (0%) of 202.002 s (1.73695%)
+maj: 5114.53 s (70.5474%) of 7249.77 s (62.3384%)
+min/1: 0 s (n/a) of 0 s (0%)
+min/5: 0 s (0%) of 181.917 s (1.56424%)
+min/b3: 0 s (0%) of 265.395 s (2.28204%)
+min: 1985.76 s (64.3946%) of 3083.74 s (26.5161%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 7374.12 s (63.4076%)
+  of which root correct: 7100.29 s (61.053%)
+  of which root incorrect: 273.832 s (2.35459%)
+1 chroma wrong: 1012.14 s (8.70304%)
+  of which 1 substitution: 1012.14 s (8.70304%)
+2 chromas wrong: 1486.44 s (12.7814%)
+  of which 2 substitutions: 1486.44 s (12.7814%)
+3 chromas wrong: 647.9 s (5.57108%)
+  of which 3 substitutions: 647.9 s (5.57108%)
+unknown chromas wrong: 0.768 s (0.00660378%)
+
+Root/type results
+-----------------
+Both correct: 7100.29 s (61.053%)
+Only root correct: 836.086 s (7.18922%)
+Only type correct: 1258.21 s (10.8189%)
+Both wrong: 1326.79 s (11.4086%)

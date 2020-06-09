@@ -1,0 +1,40 @@
+List: "ace-output/Isophonics2009.txt"
+
+**********************
+* Chords MirexMajMin *
+**********************
+Duration of evaluated chords: 35778.2 s
+Average score: 76.5015%
+
+Chord detection results
+-----------------------
+Correct chords: 26140.8 s (73.0634%)
+Substituted chords: 7379.49 s (20.6256%)
+Deleted chords: 345.873 s (0.966713%)
+Inserted chords: 674.851 s (1.88621%)
+Correct no-chords: 1237.22 s (3.45802%)
+
+Results per chord type
+----------------------
+maj: 21296.6 s (80.5515%) of 26438.5 s (73.8953%)
+min: 4844.26 s (65.2186%) of 7427.73 s (20.7605%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 26140.8 s (73.0634%)
+  of which root correct: 26140.8 s (73.0634%)
+  of which root incorrect: 0 s (0%)
+1 chroma wrong: 2286.2 s (6.38993%)
+  of which 1 substitution: 2286.2 s (6.38993%)
+2 chromas wrong: 3584.25 s (10.018%)
+  of which 2 substitutions: 3584.25 s (10.018%)
+3 chromas wrong: 1451.7 s (4.05749%)
+  of which 3 substitutions: 1451.7 s (4.05749%)
+unknown chromas wrong: 57.3311 s (0.16024%)
+
+Root/type results
+-----------------
+Both correct: 26140.8 s (73.0634%)
+Only root correct: 1494.63 s (4.17749%)
+Only type correct: 4199.36 s (11.7372%)
+Both wrong: 1685.5 s (4.71096%)

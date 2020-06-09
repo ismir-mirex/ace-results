@@ -1,0 +1,46 @@
+List: "ace-output/JayChou29.txt"
+
+**************************
+* Chords MirexMajMinBass *
+**************************
+Duration of evaluated chords: 7251.17 s
+Average score: 55.2704%
+
+Chord detection results
+-----------------------
+Correct chords: 3812.81 s (52.582%)
+Substituted chords: 2261.6 s (31.1895%)
+Deleted chords: 919.477 s (12.6804%)
+Inserted chords: 62.2384 s (0.858322%)
+Correct no-chords: 195.046 s (2.68986%)
+
+Results per chord type
+----------------------
+maj/1: 0 s (n/a) of 0 s (0%)
+maj/5: 0 s (0%) of 382.404 s (5.27369%)
+maj/3: 0 s (0%) of 680.107 s (9.37928%)
+maj: 2056.54 s (62.9452%) of 3267.19 s (45.0575%)
+min/1: 0 s (n/a) of 0 s (0%)
+min/5: 0 s (0%) of 105.531 s (1.45537%)
+min/b3: 0 s (0%) of 112.988 s (1.55821%)
+min: 1756.26 s (71.8115%) of 2445.66 s (33.7278%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 4336.31 s (59.8015%)
+  of which root correct: 3812.81 s (52.582%)
+  of which root incorrect: 523.502 s (7.21955%)
+1 chroma wrong: 607.422 s (8.37689%)
+  of which 1 substitution: 607.422 s (8.37689%)
+2 chromas wrong: 875.393 s (12.0724%)
+  of which 2 substitutions: 875.393 s (12.0724%)
+3 chromas wrong: 241.919 s (3.33628%)
+  of which 3 substitutions: 241.919 s (3.33628%)
+unknown chromas wrong: 13.3646 s (0.18431%)
+
+Root/type results
+-----------------
+Both correct: 3812.81 s (52.582%)
+Only root correct: 798.956 s (11.0183%)
+Only type correct: 573.049 s (7.90285%)
+Both wrong: 889.596 s (12.2683%)

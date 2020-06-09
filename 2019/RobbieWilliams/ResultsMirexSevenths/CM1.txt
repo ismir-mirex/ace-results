@@ -1,0 +1,53 @@
+List: "ace-output/RobbieWilliams.txt"
+
+************************
+* Chords MirexSevenths *
+************************
+Duration of evaluated chords: 15819 s
+Average score: 57.9703%
+
+Chord detection results
+-----------------------
+Correct chords: 9042.38 s (57.1614%)
+Substituted chords: 6190.57 s (39.1337%)
+Deleted chords: 24.5252 s (0.155036%)
+Inserted chords: 433.104 s (2.73787%)
+Correct no-chords: 128.462 s (0.812072%)
+
+Results per chord type
+----------------------
+maj: 6750.79 s (63.1185%) of 10695.4 s (67.6111%)
+maj7: 220.748 s (69.5187%) of 317.537 s (2.00731%)
+7: 149.357 s (51.3383%) of 290.928 s (1.8391%)
+min: 1756.63 s (48.504%) of 3621.62 s (22.8941%)
+min7: 164.85 s (49.6606%) of 331.954 s (2.09845%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 9042.38 s (57.1614%)
+  of which root correct: 9042.38 s (57.1614%)
+  of which root incorrect: 0 s (0%)
+1 chroma wrong: 3174.67 s (20.0687%)
+  of which 1 substitution: 591.544 s (3.73944%)
+  of which 1 deletion: 0 s (0%)
+  of which 1 insertion: 0 s (0%)
+2 chromas wrong: 1188.98 s (7.51612%)
+  of which 2 substitutions: 695.398 s (4.39596%)
+  of which 1 substitution, 1 deletion: 149.287 s (0.943718%)
+  of which 1 substitution, 1 insertion: 2433.84 s (15.3855%)
+3 chromas wrong: 544.263 s (3.44056%)
+  of which 3 substitutions: 192.382 s (1.21614%)
+  of which 2 substitutions, 1 deletion: 53.813 s (0.340179%)
+  of which 2 substitutions, 1 insertion: 439.767 s (2.77998%)
+4 chromas wrong: 45.5741 s (0.288097%)
+  of which 4 substitutions: 0 s (0%)
+  of which 3 substitutions, 1 deletion: 32.0251 s (0.202447%)
+  of which 3 substitutions, 1 insertion: 319.857 s (2.02197%)
+unknown chromas wrong: 1237.08 s (7.82021%)
+
+Root/type results
+-----------------
+Both correct: 9042.38 s (57.1614%)
+Only root correct: 3850.92 s (24.3436%)
+Only type correct: 613.763 s (3.8799%)
+Both wrong: 1725.88 s (10.9102%)
