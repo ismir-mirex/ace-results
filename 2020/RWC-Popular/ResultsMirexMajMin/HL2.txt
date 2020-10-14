@@ -1,0 +1,39 @@
+List: "ace-output/RWC-Popular.txt"
+
+**********************
+* Chords MirexMajMin *
+**********************
+Duration of evaluated chords: 23025.1 s
+Average score: 67.917%
+
+Chord detection results
+-----------------------
+Correct chords: 15099.9 s (65.5803%)
+Substituted chords: 4641.7 s (20.1593%)
+Deleted chords: 2676.73 s (11.6253%)
+Inserted chords: 68.704 s (0.298387%)
+Correct no-chords: 538.042 s (2.33676%)
+
+Results per chord type
+----------------------
+maj: 10461.5 s (68.4238%) of 15289.3 s (66.4027%)
+min: 4638.41 s (65.0635%) of 7129.06 s (30.9621%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 15099.9 s (65.5803%)
+  of which root correct: 15099.9 s (65.5803%)
+  of which root incorrect: 0 s (0%)
+1 chroma wrong: 2050.99 s (8.90762%)
+  of which 1 substitution: 2050.99 s (8.90762%)
+2 chromas wrong: 1627.75 s (7.06945%)
+  of which 2 substitutions: 1627.75 s (7.06945%)
+3 chromas wrong: 962.96 s (4.18222%)
+  of which 3 substitutions: 962.96 s (4.18222%)
+
+Root/type results
+-----------------
+Both correct: 15099.9 s (65.5803%)
+Only root correct: 1404.16 s (6.09838%)
+Only type correct: 1871.81 s (8.12941%)
+Both wrong: 1365.73 s (5.9315%)

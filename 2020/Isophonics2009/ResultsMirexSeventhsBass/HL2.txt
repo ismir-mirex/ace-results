@@ -1,0 +1,70 @@
+List: "ace-output/Isophonics2009.txt"
+
+****************************
+* Chords MirexSeventhsBass *
+****************************
+Duration of evaluated chords: 35161.3 s
+Average score: 56.5794%
+
+Chord detection results
+-----------------------
+Correct chords: 18199.7 s (51.7608%)
+Substituted chords: 10378.6 s (29.5171%)
+Deleted chords: 4670.87 s (13.2841%)
+Inserted chords: 217.781 s (0.619377%)
+Correct no-chords: 1694.29 s (4.81862%)
+
+Results per chord type
+----------------------
+maj/1: 0 s (n/a) of 0 s (0%)
+maj/5: 0 s (0%) of 718.437 s (2.04326%)
+maj/3: 0 s (0%) of 570.414 s (1.62228%)
+maj: 15245.5 s (71.6697%) of 21271.9 s (60.4981%)
+maj7/1: 0 s (n/a) of 0 s (0%)
+maj7/5: 0 s (0%) of 5.33542 s (0.0151741%)
+maj7/3: 0 s (0%) of 59.3186 s (0.168704%)
+maj7/7: 0 s (0%) of 93.1433 s (0.264903%)
+maj7: 49.0476 s (16.4085%) of 298.915 s (0.850126%)
+7/1: 0 s (n/a) of 0 s (0%)
+7/5: 0 s (0%) of 33.0644 s (0.0940363%)
+7/3: 0 s (0%) of 38.3232 s (0.108993%)
+7/b7: 0 s (0%) of 126.776 s (0.360557%)
+7: 4.864 s (0.171616%) of 2834.23 s (8.06066%)
+min/1: 0 s (n/a) of 0 s (0%)
+min/5: 0 s (0%) of 224.702 s (0.639062%)
+min/b3: 0 s (0%) of 168.252 s (0.478516%)
+min: 2617.71 s (46.4132%) of 5640.02 s (16.0404%)
+min7/1: 0 s (n/a) of 0 s (0%)
+min7/5: 0 s (0%) of 14.0636 s (0.0399973%)
+min7/b3: 0 s (0%) of 16.1356 s (0.0458903%)
+min7/b7: 0 s (0%) of 149.12 s (0.424104%)
+min7: 282.614 s (28.6324%) of 987.044 s (2.80719%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 18611.8 s (52.9327%)
+  of which root correct: 18199.7 s (51.7608%)
+  of which root incorrect: 412.06 s (1.17191%)
+1 chroma wrong: 5180.37 s (14.7332%)
+  of which 1 substitution: 1732.68 s (4.92782%)
+  of which 1 deletion: 0 s (0%)
+  of which 1 insertion: 0 s (0%)
+2 chromas wrong: 3316.62 s (9.43261%)
+  of which 2 substitutions: 2487.36 s (7.07415%)
+  of which 1 substitution, 1 deletion: 2366.38 s (6.73009%)
+  of which 1 substitution, 1 insertion: 1081.3 s (3.07526%)
+3 chromas wrong: 1401.38 s (3.98559%)
+  of which 3 substitutions: 824.023 s (2.34355%)
+  of which 2 substitutions, 1 deletion: 347.565 s (0.988489%)
+  of which 2 substitutions, 1 insertion: 481.7 s (1.36997%)
+4 chromas wrong: 68.1526 s (0.193829%)
+  of which 4 substitutions: 1.37709 s (0.00391651%)
+  of which 3 substitutions, 1 deletion: 374.443 s (1.06493%)
+  of which 3 substitutions, 1 insertion: 202.917 s (0.577105%)
+
+Root/type results
+-----------------
+Both correct: 18199.7 s (51.7608%)
+Only root correct: 5646.72 s (16.0595%)
+Only type correct: 2212.61 s (6.29275%)
+Both wrong: 2519.26 s (7.16487%)
